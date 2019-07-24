@@ -1,0 +1,48 @@
+html {box-sizing: border-box;} 
+*, *::before, *::after {box-sizing:inherit; font-family: Arial, Helvetica, sans-serif}
+
+
+/* li {
+    list-style: none;
+    border-bottom: 1px solid rgba(198, 195, 195, 0.797);
+    padding: 15px 0; 
+    height: 50px;
+    width: 100%;
+    text-transform: capitalize;
+    padding-left: 15px;
+    cursor: pointer;
+    color: black;
+} */
+
+
+
+/* ul {
+    list-style: none;
+    padding:0;
+    margin:0;
+} */
+
+/* .listview {
+    width: 400px;
+    margin: auto;
+    height: 500px;
+    overflow: scroll;
+    border: 2px solid rgb(142,185,79);
+    border-radius: 5px;
+} */
+
+/* h3 {
+    height: 50px;
+    background: rgb(142,185,79);
+    color: white;
+    padding: 15px 0;
+    margin: 0;
+    padding-left: 15px;
+} */
+
+
+
+
+
+
+

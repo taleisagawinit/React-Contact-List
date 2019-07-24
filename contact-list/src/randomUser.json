@@ -25,6 +25,8 @@
       "dob":1430498648,
       "phone":"953-845-0361",
       "cell":"998-627-0904",
+
+      
       "id":1,
       "picture":{  
         "large":"https://randomuser.me/api/portraits/men/12.jpg",
@@ -59,12 +61,14 @@
       "dob":748963407,
       "phone":"763-296-4886",
       "cell":"833-301-1425",
+
+
       "id":2,
-      "picture":{  
-        "large":"https://randomuser.me/api/portraits/men/54.jpg",
-        "medium":"https://randomuser.me/api/portraits/med/men/54.jpg",
-        "thumbnail":"https://randomuser.me/api/portraits/thumb/men/54.jpg"
-      },
+            "picture":{  
+              "large":"https://randomuser.me/api/portraits/men/54.jpg",
+              "medium":"https://randomuser.me/api/portraits/med/men/54.jpg",
+              "thumbnail":"https://randomuser.me/api/portraits/thumb/men/54.jpg"
+            },
       "nat":"CA"
     },
     {  

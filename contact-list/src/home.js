@@ -11,12 +11,12 @@ class Home extends Component {
                 <h3>My Peeps</h3>
                 <ul>
                     {data.map(result => (
-                    <li className="productLink">
+                    <li className="productLink" key={result.id}>
                         <Link to={"/" + result.id}>
                         <User 
-                                key={result.id}
-                                fname={result.name.first}
-                                lname={result.name.last}
+                            pic={result.picture.thumbnail}
+                            fname={result.name.first}
+                            lname={result.name.last}
                         />
                         </Link>
                     </li>
